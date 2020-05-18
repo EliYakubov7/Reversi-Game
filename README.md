@@ -16,13 +16,14 @@ After the game is over, the game's score is displayed and you can continue to an
 
 
 
-![Game menu 6x6](https://github.com/barak03/reversi-game/blob/master/images/game%20menu%206x6.png) ![Game menu 8x8](https://github.com/barak03/reversi-game/blob/master/images/game%20menu%208x8.png)
+![Game menu 6x6](https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/option_6x6.png) ![Game menu 8x8](https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/option_8x8.png) ![Game menu 10x10](https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/option_10x10.png) ![Game menu 12x12](https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/option_12x12.png) 
 
 
-![Game board after few moves](https://github.com/barak03/reversi-game/blob/master/images/game%20board%202.png)
+![Game board after few moves_6x6](https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/start_game_6x6.png)![Game board after few moves-8x8](https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/start_game_8x8.png)![Game board after few moves-10x10](https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/start_game_10x10.png)![Game board after few moves-12x12](https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/start_game_12x12.png)
 
 
-![End game menu](https://github.com/barak03/reversi-game/blob/master/images/Game%20End%20Menu.png)
+![End game menu_6x6](https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/end_game_6x6.png)![End game menu_8x8](https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/end_game_8x8.png)![End game menu_10x10](https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/end_game_10x10.png)![End game menu_12x12](https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/end_game_12x12.png)
+
 
 ## Authors
 
