@@ -14,15 +14,20 @@ Each player in his turn can see the possible moves he can make, every possible m
 After the game is over, the game's score is displayed and you can continue to another game or exit.
 
 
+### Board Size
 
+<img src="https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/option_6x6.png" width="250" > <img src="https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/option_8x8.png" width="250" >
+<img src="https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/option_10x10.png" width="250" ><img src="https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/option_12x12.png" width="250" >
 
-<img src="https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/option_6x6.png" width="250" > <img src="https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/option_8x8.png" width="250" > <img src="https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/option_10x10.png" width="250" ><img src="https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/option_12x12.png" width="250" >
+### Start Game
 
+<img src="https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/start_game_6x6.png" width="250" ><img src="https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/start_game_8x8.png" width="250" >
+<img src="https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/start_game_10x10.png" width="250" ><img src="https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/start_game_12x12.png" width="250" >
 
-<img src="https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/start_game_6x6.png" width="250" ><img src="https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/start_game_8x8.png" width="250" ><img src="https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/start_game_10x10.png" width="250" ><img src="https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/start_game_12x12.png" width="250" >
+### End Game
 
-
-<img src="https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/end_game_6x6.png"   width="250" ><img src="https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/end_game_8x8.png"   width="250" ><img src="https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/end_game_10x10.png" width="250" ><img src="https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/end_game_12x12.png" width="250" >
+<img src="https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/end_game_6x6.png" width="250" ><img src="https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/end_game_8x8.png"   width="250" >
+<img src="https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/end_game_10x10.png" width="250" ><img src="https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/end_game_12x12.png" width="250" >
 
 ## Authors
 
