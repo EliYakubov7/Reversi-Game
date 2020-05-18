@@ -1,6 +1,6 @@
 # Reversi-game using windows forms UI
 
-![Game board](https://github.com/barak03/reversi-game/blob/master/images/game%20board.png) weight="250"
+<img (https://github.com/barak03/reversi-game/blob/master/images/game%20board.png) weight="250" >
 
 ## About the game:
 Reversi is a strategy board game for two players, played on an  NxN (in this project: 6x6 8X8 10X10 12x12 boards) uncheckered board. There are NxN identical game pieces called disks (often spelled "discs"), which are light on one side and dark on the other. Players take turns placing disks on the board with their assigned color facing up. During a play, any disks of the opponent's color that are in a straight line and bounded by the disk just placed and another disk of the current player's color are turned over to the current player's color.
@@ -16,14 +16,13 @@ After the game is over, the game's score is displayed and you can continue to an
 
 
 
-![Game menu 6x6](https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/option_6x6.png) weight="250" ![Game menu 8x8](https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/option_8x8.png) weight="250" ![Game menu 10x10](https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/option_10x10.png) weight="250" ![Game menu 12x12](https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/option_12x12.png) weight="250" 
+<img (https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/option_6x6.png) weight="250" > <img(https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/option_8x8.png) weight="250" > <img(https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/option_10x10.png) weight="250" ><img(https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/option_12x12.png) weight="250" >
 
 
-![Game board after few moves_6x6](https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/start_game_6x6.png) weight="250"![Game board after few moves-8x8](https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/start_game_8x8.png) weight="250"![Game board after few moves-10x10](https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/start_game_10x10.png) weight="250"![Game board after few moves-12x12](https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/start_game_12x12.png) weight="250"
+<img(https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/start_game_6x6.png) weight="250" ><img(https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/start_game_8x8.png) weight="250" ><img(https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/start_game_10x10.png) weight="250" ><img(https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/start_game_12x12.png) weight="250" >
 
 
-![End game menu_6x6](https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/end_game_6x6.png) weight="250"![End game menu_8x8](https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/end_game_8x8.png) weight="250" ![End game menu_10x10](https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/end_game_10x10.png) weight="250" ![End game menu_12x12](https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/end_game_12x12.png) weight="250"
-
+<img(https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/end_game_6x6.png) weight="250" ><img(https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/end_game_8x8.png) weight="250" ><img(https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/end_game_10x10.png) weight="250" ><img(https://github.com/EliYakubov7/Reversi-Game/blob/master/screenshots/end_game_12x12.png) weight="250" >
 
 ## Authors
 
