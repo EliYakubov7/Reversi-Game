@@ -1,0 +1,7 @@
+C:\Projects Github\ELI C#\B19 Ex05 EliyahuYakubov 313268203 BarakAted 313266561\Ex05\bin\Debug\Ex05.exe
+C:\Projects Github\ELI C#\B19 Ex05 EliyahuYakubov 313268203 BarakAted 313266561\Ex05\bin\Debug\Ex05.pdb
+C:\Projects Github\ELI C#\B19 Ex05 EliyahuYakubov 313268203 BarakAted 313266561\Ex05\obj\Debug\Ex05.csprojResolveAssemblyReference.cache
+C:\Projects Github\ELI C#\B19 Ex05 EliyahuYakubov 313268203 BarakAted 313266561\Ex05\obj\Debug\Ex05.Properties.Resources.resources
+C:\Projects Github\ELI C#\B19 Ex05 EliyahuYakubov 313268203 BarakAted 313266561\Ex05\obj\Debug\Ex05.csproj.GenerateResource.Cache
+C:\Projects Github\ELI C#\B19 Ex05 EliyahuYakubov 313268203 BarakAted 313266561\Ex05\obj\Debug\Ex05.exe
+C:\Projects Github\ELI C#\B19 Ex05 EliyahuYakubov 313268203 BarakAted 313266561\Ex05\obj\Debug\Ex05.pdb

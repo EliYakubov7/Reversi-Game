@@ -4,7 +4,6 @@ using System.Text;
 
 namespace Ex05
 {
-    // $G$ DSN-999 (-3) Better use a struct here
     public class ValidMove
     {
         private int m_Row;

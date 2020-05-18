@@ -7,7 +7,6 @@ using System.Drawing;
 namespace Ex05
 {
 
-    // $G$ CSS-016 (-3) Bad class name - The name of classes derived from Form should start with Form.
     public class GameForm : Form
     {
         private const int k_ButtonSize = 40;
@@ -36,7 +35,6 @@ namespace Ex05
             generateButtonMatrix();
         }
 
-        // $G$ CSS-013 (-5) Bad input variable name (should be in the form of i_PascalCased)
         public GameButton this[int i_row, int i_col]
         {
             get { return m_ButtonMatrix[i_row, i_col]; }

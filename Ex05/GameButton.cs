@@ -4,7 +4,6 @@ using System.Drawing;
 
 namespace Ex05
 {
-    // $G$ CSS-999 (-3) class name should start with Button
     public class GameButton : Button
     {
         private int m_ButtonX;

@@ -5,7 +5,6 @@ using System.Drawing;
 namespace Ex05
 {
 
-    // $G$ CSS-016 (-3) Bad class name - The name of classes derived from Form should start with Form.
     public class GameSettingsForm : Form
     {
         private const int k_MaximumBoardSize = 12;

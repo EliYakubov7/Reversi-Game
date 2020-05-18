@@ -32,7 +32,6 @@ namespace Ex05
             return returnValue;
         }
 
-        // $G$ CSS-002 (-5) Bad member variable name (should be io_CamelCased)
         public bool CanBeSwitched(int i_Row, int i_Col, int i_DeltaRow, int i_DeltaCol, char i_Color, ref char[,] i_Board)
         {
             int row = i_Row + i_DeltaRow;
